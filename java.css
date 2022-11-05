@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Gemunu+Libre&display=swap');
+
+*{
+    box-sizing: border-box;
+
+
+}
+body{
+    margin: 0;
+    font-family: 'Gemunu Libre', sans-serif;
+   
+    text-align: center;
+    background-image: url("https://fondosmil.com/fondo/18820.jpg");
+    color: rgb(5, 3, 3);
+    font-size: 50px;
+    background-color: rgb(12, 19, 19);
+
+}
+
+.div1{
+    background-color: rgb(189, 200, 204);
+    margin: 200px;
+
+
+   
+}
+.jav{
+    background-color: rgb(8, 8, 8);
+}
